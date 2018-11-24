@@ -1,0 +1,27 @@
+html {
+  font-family: 'Lato', sans-serif !important;
+}
+
+body {
+  background: #333;
+  color: white;
+}
+
+.navbar {
+  border-bottom: #008ed6 3px solid;
+  opacity: 0.9;
+  ;
+}
+
+.main-header {
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.6)), url(../img/home.jpg);
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+.card-form {
+  opacity: 0.7 !important;
+}
